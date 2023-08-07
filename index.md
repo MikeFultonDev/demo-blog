@@ -1,4 +1,4 @@
 ---
-title: Welcome to mike's blog
+title: Welcome to mike's updated blog
 ---
 
